@@ -1,0 +1,11 @@
+IMPORTANT: YOU MUST INSTALL PREACT X (npm install preact@10.0.0)
+
+once installed, make sure to change alias in webpack.config.babel file from 'preact-compat' to 'preact/compat'
+
+online dependencies that were used:
+-axios
+-react-big-calendar
+-local-storage
+-react-router
+-react-router-dom
+-moment
